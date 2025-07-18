@@ -14,6 +14,10 @@ The system allows users to manage a contact list of up to 16 entries. Each conta
   
 </div>
 
+<div align="center">
+ <img src="demo.gif"> 
+</div>
+
 ## Features
 The program supports the following core functionalities:
 
