@@ -44,6 +44,7 @@ The application includes error checks to:
 
 ## How to run?
 This project is written in 8086 Assembly and was developed and tested using the Emu8086 emulator.\
+\
 Steps to Compile and Execute:
 
   1. Open Emu8086.
