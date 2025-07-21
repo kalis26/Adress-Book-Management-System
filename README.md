@@ -15,7 +15,7 @@ The system allows users to manage a contact list of up to 16 entries. Each conta
 </div>
 
 <div align="center">
- <img src="demo.gif"> 
+ <img src="resources/demo.gif"> 
 </div>
 
 ## Features
